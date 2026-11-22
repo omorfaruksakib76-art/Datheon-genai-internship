@@ -1,0 +1,11 @@
+Tanvir Rahman
+Email: tanvir.rahman@example.com | Phone: +880 1700-000000
+
+Skills: Python, Django, SQL, Git, Machine Learning
+
+Experience:
+- Junior Backend Developer at CodeNest, Jan 2024 - Dec 2025
+- Intern at DataWorks, Jun 2023 - Aug 2023
+
+Education:
+- BSc in Computer Science and Engineering, University of Dhaka, 2020-2024
