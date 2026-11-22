@@ -1,0 +1,10 @@
+INVOICE No. INV-2026-0042
+Date: 15 March 2026
+From: Dhaka Tech Supplies Ltd.
+
+Items:
+- 5 x Wireless Mouse @ 12.50 USD
+- 2 x Mechanical Keyboard @ 45.00 USD
+- 1 x USB-C Hub @ 20.00 USD
+
+Total due: 172.50 USD
