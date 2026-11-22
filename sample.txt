@@ -1,0 +1,7 @@
+Retrieval-Augmented Generation (RAG) is a technique that improves large language model answers by retrieving relevant documents at query time and adding them to the prompt.
+
+A typical RAG pipeline has four steps. First, documents are loaded and split into small overlapping chunks. Second, each chunk is converted into a vector embedding. Third, the embeddings are stored in a vector database such as ChromaDB or FAISS. Fourth, at question time the most similar chunks are retrieved and passed to the language model as context.
+
+RAG reduces hallucinations because the model answers from supplied text instead of relying only on its training data. It also lets a system use private or recent documents without retraining the model.
+
+Chunk size matters: chunks that are too large dilute relevance, while chunks that are too small lose context. A common starting point is 500 to 1000 characters with 10 to 20 percent overlap.
